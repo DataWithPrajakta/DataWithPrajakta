@@ -6,8 +6,8 @@ M.Sc. Statistics graduate from Shivaji University, Kolhapur, looking for Data An
 Python | R | SQL | Power BI | Tableau | Excel
 
 ## 📊 Projects
-- [E-Commerce Data Analytics (Excel, SQL, Power BI)](link-to-your-repo)
+- [E-Commerce Data Analytics (Excel, SQL, Power BI)]()
 
 ## 📫 Contact
-- LinkedIn: [your link]
-- Email: your email
+- LinkedIn: www.linkedin.com/in/prajaktakadam1438
+- Email: prajaktakadam@1438gmail.com
