@@ -1,7 +1,5 @@
 # Hi, I'm Prajakta Kadam 👋
 
-### Turning data into decisions 📊
-
 ---
 
 ## 👩‍💻 About Me
