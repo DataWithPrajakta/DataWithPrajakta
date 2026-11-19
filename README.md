@@ -1,7 +1,5 @@
 # Hi, I'm Prajakta Kadam 👋
 
----
-
 ## 👩‍💻 About Me
 
 I'm a statistics graduate who loves finding the story hidden inside data. I enjoy cleaning messy datasets, asking the right questions, and showing the answers through clear dashboards and models.
